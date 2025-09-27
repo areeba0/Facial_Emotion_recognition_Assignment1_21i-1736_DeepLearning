@@ -1,0 +1,14 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+seaborn
+
+# Optional utilities
+python-multipart   # for FastAPI/Django file uploads
+opencv-python
+scipy
+
+
