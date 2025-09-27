@@ -14,7 +14,7 @@ The project is divided into **4 main parts**:
    - Handles image loading and annotation parsing.  
    - Prepares datasets for training, validation, and testing.  
 
-2. **Model A – DenseNet**  
+2. **Model C – DenseNet**  
    - Used for both **classification** and **regression**.  
    - Baseline deep CNN with strong feature extraction capabilities.  
 
@@ -22,7 +22,7 @@ The project is divided into **4 main parts**:
    - Lightweight and efficient CNN for both tasks.  
    - Suitable for deployment on resource-constrained devices.  
 
-4. **Model C – ResNet50**  
+4. **Model A – ResNet50**  
    - Deep residual network for classification and regression.  
    - Handles vanishing gradient problems effectively.  
 
